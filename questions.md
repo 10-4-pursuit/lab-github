@@ -27,5 +27,6 @@ The English mathematician and writer often regarded as the first computer progra
 Who is the "Turing machine" named after?
 
 ```
+The "Turing machine" is named after Alan Turing, a British mathematician, logician, and computer scientist.
 
 ```
