@@ -9,13 +9,13 @@ JavaScript was invented by Brendan Eich in 1995.
 What does "ES6" stand for?
 
 ```
-
+ES6 stands for ECMAScript 6.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google.
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
